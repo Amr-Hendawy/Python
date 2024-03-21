@@ -10,18 +10,18 @@
  
  ### Introduction and How Python works
    - [x] - 01 - Important Discussion about Python 
-   - [ ] - 02 - Why do I learn Python and what do I need
-   - [ ] - 03 - Syntax and Your First App
-   - [ ] - 04 - Comments and best practices
-   - [ ] - 05 - What are datatypes and how to deal with them
-   - [ ] - 06 - Variables
-   - [ ] - 07 - Escape Sequence Character 
-   - [ ] - 08 - How to concatenate characters [training]
-   - [ ] - 09- Assignments Session-1 
+   - [x] - 02 - Why do I learn Python and what do I need
+   - [x] - 03 - Syntax and Your First App
+   - [x] - 04 - Comments and best practices
+   - [x] - 05 - What are datatypes and how to deal with them
+   - [x] - 06 - Variables
+   - [x] - 07 - Escape Sequence Character 
+   - [x] - 08 - How to concatenate characters [training]
+   - [x] - 09- Assignments Session-1 
  ### Datatypes
-  - [ ] - 01 - String
-  - [ ] - 02 - How to slice and index Strings
-  - [ ] - 03 - String Methods 
+  - [x] - 01 - String
+  - [x] - 02 - How to slice and index Strings
+  - [x] - 03 - String Methods 
   - [ ] - 04 - String formatting [Old Way]
   - [ ] - 05 - String formatting [New Way]
   - [ ] - 06 - Number
