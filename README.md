@@ -9,7 +9,7 @@
  >  The student is going to take assignments at every session to correct its logic at the next session.
  
  ### Introduction and How Python works
-   - [ ] - 01 - Important Discussion about Python 
+   - [x] - 01 - Important Discussion about Python 
    - [ ] - 02 - Why do I learn Python and what do I need
    - [ ] - 03 - Syntax and Your First App
    - [ ] - 04 - Comments and best practices
